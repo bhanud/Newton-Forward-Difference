@@ -1,4 +1,4 @@
-Newton Forward Difference
+//Newton Forward Difference
 #include<iostream>
 #include<cstdio>
 #include<iomanip>
